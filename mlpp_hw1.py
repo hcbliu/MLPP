@@ -10,7 +10,7 @@ Chosen state: Pennsylvania
 Chosen Attributes: 
     (1) Percent unemployed (justification: unemployment rates can be used for labor market particiation comparison between blocks)
     (2) Percent without high school degree (justificaiton: high school education completion rates are of interest to labor market analyses)
-    (3) Percent with 4-year college degree (justification: college education completion rates are of interest to labor market analuses)
+    (3) Percent with 4-year college degree (justification: college education completion rates are of interest to labor market analyses)
     (4) Housing rent prices (justification: rent prices are estimates of portion of income deducted to cover basic living cost)
     (5) Median household income (justification: household incomes are estimates of labor productivity)
 
